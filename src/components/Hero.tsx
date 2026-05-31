@@ -43,7 +43,7 @@ export default function Hero() {
           className="text-5xl sm:text-6xl lg:text-7xl font-extrabold font-[Outfit] leading-tight mb-4"
         >
           Hi, I'm{' '}
-          <span className="gradient-text">Kavinraj S   </span>
+          <span className="gradient-text">Kavinraj  S   </span>
         </motion.h1>
 
         {/* Typed role */}
